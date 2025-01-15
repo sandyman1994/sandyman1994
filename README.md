@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am Patrick.
+I am a third year Computing with Cybersecurity and Digital Forensics student. I'm looking to learn more about software develoment, cyber security, ethical hacking, and the cosmos.
+
+I'm looking for help in using my skills to work as a digital Nomad/ Freelance worker. Reach me at patrickmanning2010@gmail.com
 
 <!--
 **sandyman1994/sandyman1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
